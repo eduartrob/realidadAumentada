@@ -1,0 +1,9 @@
+# Directorios del entorno virtual
+entorno_env/
+.venv/
+venv/
+env/
+
+# Archivos de caché de Python
+__pycache__/
+*.pyc
